@@ -3,3 +3,4 @@ Projeto feito em conjunto com os professores da Alura no curso de API em Java, n
 
 ## Demonstração
 
+<img src="/assets-para-readme/Demonstracao.gif">
